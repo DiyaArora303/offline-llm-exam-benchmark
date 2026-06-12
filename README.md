@@ -94,6 +94,7 @@ The more interesting question is what happens when these models are given better
 - Tool: LM Studio (lmstudio.ai), free and no-code
 - Hardware: Consumer GPU, 3 to 8 GB VRAM depending on model
 - Question sources: Official NEET papers, eSaral.com for JEE 2025 papers
+
   NEET UG — 2019, 2022, 2025 | JEE Main 2025 — Jan 22 Shift 1, Jan 24 Shift 2, Apr 06 Shift 1
 
 
